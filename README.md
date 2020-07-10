@@ -13,7 +13,10 @@ https://web.stanford.edu/~boyd/papers/pdf/gp_tutorial.pdf
 
 
 Online Algorithms: 
+
+
 1- The Design of Competitive Online Algorithms via a Primal–Dual Approach: 
 https://www.tau.ac.il/~nivb/download/pd-survey.pdf
 
-2- 
+2- The survey on online algorithms:
+
